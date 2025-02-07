@@ -1,0 +1,2 @@
+# osubot
+Osu! chatbot
